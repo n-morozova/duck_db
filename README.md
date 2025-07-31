@@ -94,4 +94,4 @@ DuckDB CLI allows you to run a SQL statement and exit using the `-c` option pa
 
 ```bash
 duckdb -c "SELECT * FROM read_parquet('data/orders.parquet');"
-```
+
